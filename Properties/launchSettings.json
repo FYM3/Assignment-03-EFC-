@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Assignment#03-EFC#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
